@@ -1,0 +1,2 @@
+# AI
+AI, AGI, ML, DL
