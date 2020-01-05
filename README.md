@@ -1,7 +1,10 @@
-# AI
+# AI - Artificial Intelligence
 AI, AGI, ML, DL
 
-[Awesome Machine Learning on Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
+## AI - Keras, Pytorch, Tensorflow
+* [Awesome Machine Learning on Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
+
+## NLP - BERT, DeepPavlov
 
 ## Node.js	- node.js microservices, cookbooks, blueprints	 
 * [Single Page Web Applications: JavaScript end-to-end - Chat Application](https://learning.oreilly.com/library/view/single-page-web/9781617290756/) 
@@ -24,10 +27,6 @@ AI, AGI, ML, DL
 * [Microservices in Action](https://learning.oreilly.com/library/view/microservices-in-action/9781617294457/)
 
 ## Cloud - Kubernetes, OpenShift, Linux
-
-## AI - Keras, Pytorch, Tensorflow
-
-## NLP - BERT, DeepPavlov
 
 ## Blockchain - Bitcoin, Ethereum
 
