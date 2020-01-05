@@ -34,5 +34,5 @@ AI, AGI, ML, DL
 
 ## IoT - Edge Computing
 
-## Social Networks2
+## Social Networks
 
