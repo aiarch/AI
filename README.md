@@ -16,6 +16,10 @@ AI, AGI, ML, DL
 * [Full-Stack React Projects](https://learning.oreilly.com/library/view/full-stack-react-projects/9781788835534/)
 
 ## Landing page - UI
+* [Single Page Web Applications: JavaScript end-to-end](https://learning.oreilly.com/library/view/single-page-web/9781617290756/)
+
+## API
+* [Building APIs with Node.js](https://learning.oreilly.com/library/view/building-apis-with/9781484224427/)
 
 ## Python - python microservices, cookbooks, blueprints
 * [A curated list of awesome Python asyncio frameworks, libraries, software and resources](https://github.com/timofurrer/awesome-asyncio)
