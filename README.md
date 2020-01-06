@@ -11,6 +11,16 @@ AI, AGI, ML, DL
 * [Getting MEAN with Mongo, Express, Angular, and Node - Movies Rating Application - beautiful UI](https://learning.oreilly.com/library/view/getting-mean-with/9781617292033/)
 * [Learn Node.js by Building 6 Projects.](https://learning.oreilly.com/library/view/learn-nodejs-by/9781788293631/)
 * [Node.js 6.x Blueprints](https://learning.oreilly.com/library/view/nodejs-6x-blueprints/9781785888434/)
+* [Mastering Node.js - Second Edition](https://learning.oreilly.com/library/view/mastering-nodejs-/9781785888960/)
+* [Node.js in Practice](https://learning.oreilly.com/library/view/nodejs-in-practice/9781617290930/)
+* [Node.js 6.x Blueprints](https://learning.oreilly.com/library/view/nodejs-6x-blueprints/9781785888434/)
+* [Node.js Complete Reference Guide](https://learning.oreilly.com/library/view/nodejs-complete-reference/9781789952117/)
+* [Node.js 8 the Right Way](https://learning.oreilly.com/library/view/nodejs-8-the/9781680505344/)
+* [Node.js Design Patterns - Second Edition](https://learning.oreilly.com/library/view/nodejs-design-patterns/9781785885587/)
+* [Node.js in Action, Second Edition](https://learning.oreilly.com/library/view/nodejs-in-action/9781617292576/)
+* [9 Practical Node.js Projects](https://learning.oreilly.com/library/view/9-practical-nodejs/9781492071112/)
+* [Your First Week With Node.js](https://learning.oreilly.com/library/view/your-first-week/9781492071075/)
+* [Beginning Node.js](https://learning.oreilly.com/library/view/beginning-nodejs/9781484201879/)
  	 	 	 	 	 	 	 
 ## React
 * [Full-Stack React Projects](https://learning.oreilly.com/library/view/full-stack-react-projects/9781788835534/)
