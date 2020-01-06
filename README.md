@@ -126,3 +126,5 @@ AI, AGI, ML, DL
 
 ## Social Networks
 
+## SEO
+* [The Art of SEO, 3rd Edition](https://learning.oreilly.com/library/view/the-art-of/9781491903629/)
