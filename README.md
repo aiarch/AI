@@ -5,6 +5,14 @@ AI, AGI, ML, DL
 * [Awesome Machine Learning on Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 
 ## NLP - BERT, DeepPavlov
+* [Building Chatbots with Python: Using Natural Language Processing and Machine Learning](https://learning.oreilly.com/library/view/applied-natural-language/9781484237335/)
+* [Text Analytics with Python: A Practitioner's Guide to Natural Language Processing](https://learning.oreilly.com/library/view/text-analytics-with/9781484243541/)
+* [Natural Language Processing in Action](https://learning.oreilly.com/library/view/natural-language-processing/9781617294631/)
+* [Practical Natural Language Processing](https://learning.oreilly.com/library/view/practical-natural-language/9781492054047/)
+* [Natural Language Processing Recipes: Unlocking Text Data with Machine Learning and Deep Learning using Python](https://learning.oreilly.com/library/view/natural-language-processing/9781484242674/)
+* [Natural Language Processing Fundamentals](https://learning.oreilly.com/library/view/natural-language-processing/9781789954043/)
+* [Deep Learning for Natural Language Processing](https://learning.oreilly.com/library/view/deep-learning-for/9781838550295/)
+* [Natural Language Processing with Spark NLP](https://learning.oreilly.com/library/view/natural-language-processing/9781492047759/)
 
 ## Node.js	- node.js microservices, cookbooks, blueprints	 
 * [Single Page Web Applications: JavaScript end-to-end - Chat Application](https://learning.oreilly.com/library/view/single-page-web/9781617290756/) 
